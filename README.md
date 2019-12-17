@@ -1,4 +1,4 @@
-# machinelearning
+# Machine Learning Project - Image Classification
 This project is mostly focus on applying my deep learning - Neural Networks. For the purpose of this project my teammates and myself work on an image classification issue to detect the different stages of Diabetic Retinopathy
 
 ## Introduction & Problem statement 
